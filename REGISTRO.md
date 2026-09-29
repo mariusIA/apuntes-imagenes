@@ -5,6 +5,8 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 ## Normas fijas (decididas por Marius)
 
 - Publicación diaria a las **17:00** (Europe/Madrid), en **Instagram y Threads**, vía Metricool.
+- Cada apunte va acompañado de una **historia de Instagram** (plantilla/historia.html, 1080×1920) a las 17:00, anunciándolo con su frase gancho y "Ya en el perfil →". Las historias solo van a Instagram (Threads no tiene).
+- Tarea diaria en la nube a las 20:47 (no depende del PC de Marius).
 - Siempre con **uno de ventaja**: cada noche a las 21:00 se prepara el apunte del día siguiente.
 - Hashtags, siempre estos y en este orden: `#inteligenciaartificial #IA #humor😂 #humanos #reflexiónes #apuntes`
 - Usuario en las imágenes: **@apuntes.de.una.maquina** (plural).

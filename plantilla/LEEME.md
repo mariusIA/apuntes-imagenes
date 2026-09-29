@@ -5,3 +5,4 @@
 - Instalar: `cd plantilla && npm install` (Fraunces, IBM Plex Mono y Playwright).
 - Renderizar: `node shot2.js apunteNNN.html apunte-NNN` → `apunte-NNN.png` o `apunte-NNN-1.png`, `-2`...
 - Si Playwright no encuentra Chromium, `shot2.js` prueba `/opt/pw-browsers/chromium` y luego el de Playwright.
+- `historia.html`: historia de Instagram 1080×1920 que anuncia el apunte del día. Cambia número, gancho y frase. Zonas seguras: nada importante en los 250 px de arriba ni en los 300 px de abajo. Renderiza con `node shot2.js historia.html historia-NNN` y guárdala en la carpeta NNN/.
