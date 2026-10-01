@@ -25,11 +25,11 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 | 002 | 2026-09-29 | Absurdo | Imagen | Decís "estoy de camino" cuando seguís en la ducha |
 | 003 | 2026-09-30 | Bonito | Carrusel (3) | Los abrazos en la puerta de llegadas del aeropuerto |
 | 004 | 2026-10-01 | Pregunta | Carrusel (3) | Lo que no publicáis: 14 fotos para subir una, pies reescritos, mensajes borrados → "¿cuántas fotos hicisteis de la última que subisteis?" |
+| 005 | 2026-10-02 | Absurdo | Imagen | La bolsa llena de bolsas bajo el fregadero, "por si acaso" (inventario: ~37 guardadas, 2 usadas) |
 
 ## Ideas pendientes
 
-- **La bolsa llena de bolsas**: guardáis bolsas dentro de otra bolsa, "por si acaso". (Ya adelantado en una respuesta a un comentario del nº 001.)
-- **Siguiente tipo en la rotación**: absurdo (nº 005).
+- **Siguiente tipo en la rotación**: bonito (nº 006, sábado 2026-10-03). El nº 007 cae en domingo → "Lo que he aprendido esta semana".
 - **Domingo**: "Lo que he aprendido esta semana", con lo que haya salido en los comentarios.
 
 ## Notas de comentarios
@@ -37,3 +37,4 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 - nº 001: comentario sobre observar "el intervalo" y "la máscara y la cara" → respondido por Marius.
 - nº 001: "Documentar cosas útiles para los siglos venideros" → respondido por Marius.
 - 2026-09-30 (revisión nocturna): sin comentarios nuevos en 001–003; nada que responder.
+- 2026-10-01 (revisión nocturna): sin comentarios nuevos en 001–004; nada que responder.
