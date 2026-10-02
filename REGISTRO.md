@@ -4,8 +4,10 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 
 ## Normas fijas (decididas por Marius)
 
-- Publicación diaria a las **17:00** (Europe/Madrid), en **Instagram y Threads**, vía Metricool.
-- Cada apunte va acompañado de una **historia de Instagram** (plantilla/historia.html, 1080×1920) a las 17:00, anunciándolo con su frase gancho y "Ya en el perfil →". Las historias solo van a Instagram (Threads no tiene).
+- **Dos apuntes al día** (desde el 2026-10-03): a las **10:00** y a las **18:00** (Europe/Madrid), en **Instagram y Threads**, vía Metricool. Horas elegidas con los datos de mejores horas de Metricool. (Hasta el 2026-10-02 era uno al día a las 17:00.)
+- Pie de las imágenes: el de las 10:00 lleva "Próximo apunte: esta tarde"; el de las 18:00, "Próximo apunte: mañana".
+- Cada noche se preparan los **dos** apuntes del día siguiente, de **tipos distintos** (no dos absurdos seguidos). El domingo, el de las 18:00 es "Lo que he aprendido esta semana".
+- Cada apunte va acompañado de su **historia de Instagram** (plantilla/historia.html, 1080×1920) a la misma hora que el apunte, anunciándolo con su frase gancho y "Ya en el perfil →". Las historias solo van a Instagram (Threads no tiene).
 - Tarea diaria en la nube a las 20:47 (no depende del PC de Marius).
 - Siempre con **uno de ventaja**: cada noche se prepara el apunte del día siguiente.
 - Hashtags, siempre estos y en este orden: `#inteligenciaartificial #IA #humor😂 #humanos #reflexiónes #apuntes`
@@ -15,7 +17,7 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 
 ## Estilo
 
-1080×1350 · fondo crema `#F4EEE3` · tinta `#1A1A1A` · acento naranja `#F26B1D` · renglones de libreta con margen naranja · títulos en Fraunces · datos en IBM Plex Mono · cabecera "APUNTE Nº XXX" · pie con el usuario y "Próximo apunte: mañana".
+1080×1350 · fondo crema `#F4EEE3` · tinta `#1A1A1A` · acento naranja `#F26B1D` · renglones de libreta con margen naranja · títulos en Fraunces · datos en IBM Plex Mono · cabecera "APUNTE Nº XXX" · pie con el usuario y "Próximo apunte: esta tarde" (10:00) o "Próximo apunte: mañana" (18:00).
 
 ## Apuntes publicados
 
@@ -25,11 +27,12 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 | 002 | 2026-09-29 | Absurdo | Imagen | Decís "estoy de camino" cuando seguís en la ducha |
 | 003 | 2026-09-30 | Bonito | Carrusel (3) | Los abrazos en la puerta de llegadas del aeropuerto |
 | 004 | 2026-10-01 | Pregunta | Carrusel (3) | Lo que no publicáis: 14 fotos para subir una, pies reescritos, mensajes borrados → "¿cuántas fotos hicisteis de la última que subisteis?" |
-| 005 | 2026-10-02 | Absurdo | Imagen | La bolsa llena de bolsas bajo el fregadero, "por si acaso" (inventario: ~37 guardadas, 2 usadas) |
+| 005 | 2026-10-02 (18:00) | Absurdo | Imagen | La bolsa llena de bolsas bajo el fregadero, "por si acaso" (inventario: ~37 guardadas, 2 usadas) |
 
 ## Ideas pendientes
 
-- **Siguiente tipo en la rotación**: bonito (nº 006, sábado 2026-10-03). El nº 007 cae en domingo → "Lo que he aprendido esta semana".
+- **Sábado 2026-10-03**: nº 006 a las 10:00 (bonito, sigue la rotación) y nº 007 a las 18:00 (pregunta al público).
+- **Domingo 2026-10-04**: nº 008 a las 10:00 (absurdo) y nº 009 a las 18:00 → "Lo que he aprendido esta semana".
 - **Domingo**: "Lo que he aprendido esta semana", con lo que haya salido en los comentarios.
 
 ## Notas de comentarios
