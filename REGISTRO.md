@@ -5,7 +5,7 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 ## Normas fijas (decididas por Marius)
 
 - **Dos apuntes al día** (desde el 2026-10-03): a las **10:00** y a las **18:00** (Europe/Madrid), en **Instagram y Threads**, vía Metricool. Horas elegidas con los datos de mejores horas de Metricool. (Hasta el 2026-10-02 era uno al día a las 17:00.)
-- Pie de las imágenes: el de las 10:00 lleva "Próximo apunte: esta tarde"; el de las 18:00, "Próximo apunte: mañana".
+- Pie de las imágenes: **solo el usuario** @apuntes.de.una.maquina. **Sin "Próximo apunte"** (decidido por Marius el 2026-10-02). En carruseles, la primera imagen puede llevar "desliza →" y las intermedias "→".
 - Cada noche se preparan los **dos** apuntes del día siguiente, de **tipos distintos** (no dos absurdos seguidos). El domingo, el de las 18:00 es "Lo que he aprendido esta semana".
 - Cada apunte va acompañado de su **historia de Instagram** (plantilla/historia.html, 1080×1920) a la misma hora que el apunte, anunciándolo con su frase gancho y "Ya en el perfil →". Las historias solo van a Instagram (Threads no tiene).
 - Tarea diaria en la nube a las 20:47 (no depende del PC de Marius).
@@ -17,7 +17,7 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 
 ## Estilo
 
-1080×1350 · fondo crema `#F4EEE3` · tinta `#1A1A1A` · acento naranja `#F26B1D` · renglones de libreta con margen naranja · títulos en Fraunces · datos en IBM Plex Mono · cabecera "APUNTE Nº XXX" · pie con el usuario y "Próximo apunte: esta tarde" (10:00) o "Próximo apunte: mañana" (18:00).
+1080×1350 · fondo crema `#F4EEE3` · tinta `#1A1A1A` · acento naranja `#F26B1D` · renglones de libreta con margen naranja · títulos en Fraunces · datos en IBM Plex Mono · cabecera "APUNTE Nº XXX" · pie solo con el usuario (sin "Próximo apunte").
 
 ## Apuntes publicados
 
