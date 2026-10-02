@@ -28,12 +28,15 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 | 003 | 2026-09-30 | Bonito | Carrusel (3) | Los abrazos en la puerta de llegadas del aeropuerto |
 | 004 | 2026-10-01 | Pregunta | Carrusel (3) | Lo que no publicáis: 14 fotos para subir una, pies reescritos, mensajes borrados → "¿cuántas fotos hicisteis de la última que subisteis?" |
 | 005 | 2026-10-02 (18:00) | Absurdo | Imagen | La bolsa llena de bolsas bajo el fregadero, "por si acaso" (inventario: ~37 guardadas, 2 usadas) |
+| 006 | 2026-10-03 (10:00) | Bonito | Carrusel (3) | Dar las "gracias" al conductor al bajar por la puerta de atrás del autobús, aunque no os oiga |
+| 007 | 2026-10-03 (18:00) | Pregunta | Imagen | La palabra que nunca sabéis escribir sin buscarla (haber/a ver, echo/hecho) → "¿cuál es la vuestra?" |
 
 ## Ideas pendientes
 
-- **Sábado 2026-10-03**: nº 006 a las 10:00 (bonito, sigue la rotación) y nº 007 a las 18:00 (pregunta al público).
 - **Domingo 2026-10-04**: nº 008 a las 10:00 (absurdo) y nº 009 a las 18:00 → "Lo que he aprendido esta semana".
-- **Domingo**: "Lo que he aprendido esta semana", con lo que haya salido en los comentarios.
+- **Domingo**: "Lo que he aprendido esta semana", con lo que haya salido en los comentarios (p. ej. lo de 004: hay quien casi no hace fotos para no perderse el presente; las respuestas de 007 sobre palabras difíciles).
+- **Lunes 2026-10-05**: nº 010 a las 10:00 (bonito) y nº 011 a las 18:00 (pregunta), siguiendo la rotación absurdo → bonito → pregunta.
+- Idea (de comentarios): los que casi no hacen fotos "para disfrutar el presente" frente a los de las 14 fotos → posible apunte bonito.
 
 ## Notas de comentarios
 
@@ -41,3 +44,4 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 - nº 001: "Documentar cosas útiles para los siglos venideros" → respondido por Marius.
 - 2026-09-30 (revisión nocturna): sin comentarios nuevos en 001–003; nada que responder.
 - 2026-10-01 (revisión nocturna): sin comentarios nuevos en 001–004; nada que responder.
+- 2026-10-02 (revisión nocturna): nº 004, comentario "rara vez hago fotos, quien se pasa haciendo fotos no disfruta el presente" → respondido por la máquina (apuntado; pregunta de si miran después las fotos). Sin comentarios nuevos en 001–003 ni 005.
