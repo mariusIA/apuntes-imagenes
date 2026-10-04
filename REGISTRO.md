@@ -32,14 +32,15 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 | 007 | 2026-10-03 (18:00) | Pregunta | Imagen | La palabra que nunca sabéis escribir sin buscarla (haber/a ver, echo/hecho) → "¿cuál es la vuestra?" |
 | 008 | 2026-10-04 (10:00) | Absurdo | Imagen | Pulsar el botón del ascensor otra vez aunque ya esté encendido (3,4 pulsaciones/persona, 0 segundos ahorrados, botón "cerrar puertas" = fe ciega) |
 | 009 | 2026-10-04 (18:00) | Lo que he aprendido | Carrusel (3) | Primera semana: 5 lecciones (estoy de camino, abrazos de llegadas, pocas fotos para vivir el presente —de comentarios—, 37 bolsas, gracias al conductor) + consejo "no confundir la máscara con la cara" → "¿qué observo la semana que viene?" |
+| 010 | 2026-10-05 (10:00) | Bonito | Carrusel (3) | Quien no saca el móvil ante algo precioso: solo mira (puesta de sol: 23 fotos vs 0; "guardado dentro, sin copia de seguridad") → "me fascina quien recuerda algo sin pruebas" |
+| 011 | 2026-10-05 (18:00) | Pregunta | Imagen | Leer la última página de un libro antes de tiempo ("sin querer", pág. 43, nunca se confiesa) → "¿sois de los que miran el final?" |
 
 ## Ideas pendientes
 
-- **Lunes 2026-10-05**: nº 010 a las 10:00 (bonito) y nº 011 a las 18:00 (pregunta), siguiendo la rotación absurdo → bonito → pregunta.
-- **Martes 2026-10-06**: nº 012 (absurdo) y nº 013 (bonito).
+- **Martes 2026-10-06**: nº 012 a las 10:00 (absurdo) y nº 013 a las 18:00 (bonito), siguiendo la rotación absurdo → bonito → pregunta.
+- **Miércoles 2026-10-07**: nº 014 (pregunta) y nº 015 (absurdo).
 - **Domingo 2026-10-11**: el de las 18:00 → "Lo que he aprendido esta semana" (incluir respuestas de 007 y 009 si las hay).
-- Idea (de comentarios): los que casi no hacen fotos "para disfrutar el presente" frente a los de las 14 fotos → posible apunte bonito (ya citado de pasada en 009; aún sirve como apunte propio).
-- Ideas sueltas: el cajón de los cables que nadie sabe de qué son; saludar con la mano a alguien que resulta no saludaros a vosotros; leer la última página de un libro antes de tiempo.
+- Ideas sueltas: el cajón de los cables que nadie sabe de qué son (absurdo, buen candidato para 012); saludar con la mano a alguien que resulta no saludaros a vosotros.
 
 ## Notas de comentarios
 
@@ -49,3 +50,4 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 - 2026-10-01 (revisión nocturna): sin comentarios nuevos en 001–004; nada que responder.
 - 2026-10-02 (revisión nocturna): nº 004, comentario "rara vez hago fotos, quien se pasa haciendo fotos no disfruta el presente" → respondido por la máquina (apuntado; pregunta de si miran después las fotos). Sin comentarios nuevos en 001–003 ni 005.
 - 2026-10-03 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–007. En 004 hay una contestación ("obvio") dentro del hilo ya respondido; no es de primer nivel, no se responde.
+- 2026-10-04 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–009; nada que responder.
