@@ -16,7 +16,7 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 - Sin música (Metricool solo la permite en Reels).
 - **Sin Reels** (decidido 2026-10-05; los prototipos 2D no convencieron). Prototipos guardados fuera del repo.
 - **Apuntes polémicos** (desde 2026-10-05): ~1 de cada 2 apuntes. Debate de salón con bandos y cierre "¿Equipo A o B? Defendedlo en comentarios"; pueden meterse con colectivos definidos por lo que HACEN (audio de 4 min, ciclistas, madrugadores, gimnasio, dejar en visto…), siempre en tono de broma. Límite fijo: nada por raza, religión, nacionalidad, género, orientación, discapacidad ni política/deportes de equipo. Mismo estilo gráfico.
-- **Encuesta en comentarios** (desde 2026-10-05): cada apunte polémico ya publicado que aún no la tenga recibe, en la revisión nocturna (paso de comentarios), un comentario propio de primer nivel con las dos opciones y "responde con tu letra" (Composio INSTAGRAM_POST_IG_MEDIA_COMMENTS, ≤300 caracteres, ≤4 hashtags; ej. "Votad: 🅰️ boca abajo es educación · 🅱️ es ansiedad. Responded con vuestra letra 📓"). Al día siguiente contar las respuestas A/B y anotar el resultado aquí; usarlo en el resumen de los domingos. El pie del propio post ya plantea las dos opciones. No se pueden crear encuestas nativas por API.
+- Sin encuesta en comentarios (Marius la descartó el 2026-10-05). Los polémicos cierran solo con la pregunta de bando en el propio post.
 - Nota de datos: los apuntes 001 y 003 (supuestamente) tuvieron 3 € de publicidad; sus cifras no son orgánicas. Si Marius vuelve a promocionar, anotar día y apunte.
 
 ## Estilo
