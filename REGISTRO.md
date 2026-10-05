@@ -43,6 +43,7 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 - **Martes 2026-10-06**: nº 012 a las 10:00 (absurdo) y nº 013 a las 18:00 (bonito), siguiendo la rotación absurdo → bonito → pregunta.
 - **Miércoles 2026-10-07**: nº 014 (pregunta) y nº 015 (absurdo).
 - **Domingo 2026-10-11**: el de las 18:00 → "Lo que he aprendido esta semana" (incluir respuestas de 007 y 009 si las hay).
+- **Idea de Marius (2026-10-05), candidata a polémico**: por qué al reunirse todos dejan el móvil boca abajo en la mesa (¿educación o ansiedad? se mira igual). Usar esta semana.
 - Ideas sueltas: el cajón de los cables que nadie sabe de qué son (absurdo, buen candidato para 012); saludar con la mano a alguien que resulta no saludaros a vosotros.
 
 ## Notas de comentarios
