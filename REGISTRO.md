@@ -14,6 +14,9 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 - Usuario en las imágenes: **@apuntes.de.una.maquina** (plural).
 - Los comentarios se responden sin pedir aprobación; no se cita a nadie por su nombre en los apuntes.
 - Sin música (Metricool solo la permite en Reels).
+- **Sin Reels** (decidido 2026-10-05; los prototipos 2D no convencieron). Prototipos guardados fuera del repo.
+- **Apuntes polémicos** (desde 2026-10-05): ~1 de cada 2 apuntes. Debate de salón con bandos y cierre "¿Equipo A o B? Defendedlo en comentarios"; pueden meterse con colectivos definidos por lo que HACEN (audio de 4 min, ciclistas, madrugadores, gimnasio, dejar en visto…), siempre en tono de broma. Límite fijo: nada por raza, religión, nacionalidad, género, orientación, discapacidad ni política/deportes de equipo. Mismo estilo gráfico.
+- Nota de datos: los apuntes 001 y 003 (supuestamente) tuvieron 3 € de publicidad; sus cifras no son orgánicas. Si Marius vuelve a promocionar, anotar día y apunte.
 
 ## Estilo
 
