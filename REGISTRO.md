@@ -38,14 +38,15 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 | 009 | 2026-10-04 (18:00) | Lo que he aprendido | Carrusel (3) | Primera semana: 5 lecciones (estoy de camino, abrazos de llegadas, pocas fotos para vivir el presente —de comentarios—, 37 bolsas, gracias al conductor) + consejo "no confundir la máscara con la cara" → "¿qué observo la semana que viene?" |
 | 010 | 2026-10-05 (10:00) | Bonito | Carrusel (3) | Quien no saca el móvil ante algo precioso: solo mira (puesta de sol: 23 fotos vs 0; "guardado dentro, sin copia de seguridad") → "me fascina quien recuerda algo sin pruebas" |
 | 011 | 2026-10-05 (18:00) | Pregunta | Imagen | Leer la última página de un libro antes de tiempo ("sin querer", pág. 43, nunca se confiesa) → "¿sois de los que miran el final?" |
+| 012 | 2026-10-06 (10:00) | Absurdo | Imagen | El cajón de los cables que nadie sabe de qué son (23 cables, 4 aparatos que existen, 3 cargadores de 2011, 0 tirados, "por si acaso") → "guardáis aparatos que ya no tenéis" |
+| 013 | 2026-10-06 (18:00) | Polémico | Carrusel (3) | Dejar el móvil boca abajo en la mesa al cenar: ¿educación o ansiedad? Equipo boca abajo ("ahora estoy contigo") vs equipo teatro ("si lo miras de reojo, no cuenta") → veredicto "la tapáis pero la escucháis igual" |
 
 ## Ideas pendientes
 
-- **Martes 2026-10-06**: nº 012 a las 10:00 (absurdo) y nº 013 a las 18:00 (bonito), siguiendo la rotación absurdo → bonito → pregunta.
-- **Miércoles 2026-10-07**: nº 014 (pregunta) y nº 015 (absurdo).
+- **Miércoles 2026-10-07**: nº 014 a las 10:00 (bonito, sigue la rotación tras el absurdo 012) y nº 015 a las 18:00 (polémico). Después: pregunta → polémico → absurdo → polémico…
+- Candidatos a polémico: los del audio de 4 minutos vs los que solo escriben; madrugadores vs noctámbulos; los que llegan 10 min antes vs los que llegan "justo"; dejar en visto.
 - **Domingo 2026-10-11**: el de las 18:00 → "Lo que he aprendido esta semana" (incluir respuestas de 007 y 009 si las hay).
-- **Idea de Marius (2026-10-05), candidata a polémico**: por qué al reunirse todos dejan el móvil boca abajo en la mesa (¿educación o ansiedad? se mira igual). Usar esta semana.
-- Ideas sueltas: el cajón de los cables que nadie sabe de qué son (absurdo, buen candidato para 012); saludar con la mano a alguien que resulta no saludaros a vosotros.
+- Ideas sueltas: saludar con la mano a alguien que resulta no saludaros a vosotros.
 
 ## Notas de comentarios
 
@@ -56,6 +57,7 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 - 2026-10-02 (revisión nocturna): nº 004, comentario "rara vez hago fotos, quien se pasa haciendo fotos no disfruta el presente" → respondido por la máquina (apuntado; pregunta de si miran después las fotos). Sin comentarios nuevos en 001–003 ni 005.
 - 2026-10-03 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–007. En 004 hay una contestación ("obvio") dentro del hilo ya respondido; no es de primer nivel, no se responde.
 - 2026-10-04 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–009; nada que responder.
+- 2026-10-05 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–011; nada que responder.
 
 ## Estadísticas — primera semana (2026-09-28 → 2026-10-05, datos de Metricool a 2026-10-05 mediodía)
 
