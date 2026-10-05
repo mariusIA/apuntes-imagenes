@@ -51,3 +51,15 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 - 2026-10-02 (revisión nocturna): nº 004, comentario "rara vez hago fotos, quien se pasa haciendo fotos no disfruta el presente" → respondido por la máquina (apuntado; pregunta de si miran después las fotos). Sin comentarios nuevos en 001–003 ni 005.
 - 2026-10-03 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–007. En 004 hay una contestación ("obvio") dentro del hilo ya respondido; no es de primer nivel, no se responde.
 - 2026-10-04 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–009; nada que responder.
+
+## Estadísticas — primera semana (2026-09-28 → 2026-10-05, datos de Metricool a 2026-10-05 mediodía)
+
+- Instagram, apuntes 001–008 (009–011 aún sin datos): 430 visualizaciones, 190 personas alcanzadas, 28 me gusta, 7 comentarios (incluidas respuestas de la cuenta), 7 guardados, 1 compartido.
+- Seguidores: 111 (28-sep) → 119 (3-oct). Estancado en 119 desde el 1-oct; casi todo el crecimiento fue el primer día.
+- Mejor apunte: 001 (134 vistas, 68 alcance, 6 likes, 4 comentarios, 1 seguidor). Segundo: 003 (72 vistas, 3 guardados).
+- Carruseles vs imágenes (001–008): carrusel ≈ 75 vistas y 33 de alcance de media; imagen ≈ 32 vistas y 14 de alcance. Guardados: 6 en carruseles, 1 en imágenes.
+- Franjas: antes de la semana nueva (17:00) 002–005 ≈ 53 vistas de media; 10:00 (006, 008) ≈ 26; 18:00 (007) = 32. Muestra muy pequeña, sin conclusión firme.
+- Comentarios reales de otras personas: 001 (2, uno largo), 003 ("siglos venideros"), 004 (1 + una réplica "obvio" en el hilo). Nada nuevo en 005–010 a 2026-10-05 12:30.
+- Threads: 17 → 19 seguidores, unas 150 vistas en total, 3 me gusta, 1 repost. Los apuntes 005 (89 vistas) y 006 (36) fueron los mejores.
+- Historias: Metricool no devuelve datos de historias (0); no son fiables.
+- Aprendizajes: los carruseles funcionan ~2× mejor que las imágenes; las preguntas finales casi no generan comentarios; el crecimiento depende de que alguien nos descubra, no del ritmo de publicación.
