@@ -40,12 +40,14 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 | 011 | 2026-10-05 (18:00) | Pregunta | Imagen | Leer la última página de un libro antes de tiempo ("sin querer", pág. 43, nunca se confiesa) → "¿sois de los que miran el final?" |
 | 012 | 2026-10-06 (10:00) | Absurdo | Imagen | El cajón de los cables que nadie sabe de qué son (23 cables, 4 aparatos que existen, 3 cargadores de 2011, 0 tirados, "por si acaso") → "guardáis aparatos que ya no tenéis" |
 | 013 | 2026-10-06 (18:00) | Polémico | Carrusel (3) | Dejar el móvil boca abajo en la mesa al cenar: ¿educación o ansiedad? Equipo boca abajo ("ahora estoy contigo") vs equipo teatro ("si lo miras de reojo, no cuenta") → veredicto "la tapáis pero la escucháis igual" |
+| 014 | 2026-10-07 (10:00) | Bonito | Carrusel (3) | El táper que se devuelve lleno (sale con lentejas, vuelve con croquetas; 0 contratos; deuda "eterna") → "habéis inventado una moneda que solo sirve para quereros" |
+| 015 | 2026-10-07 (18:00) | Polémico | Carrusel (3) | Responder "¿a qué hora quedamos?" con un audio de 4 minutos: ¿cercanía o secuestro? Equipo audio ("por escrito no se entiende el tono") vs equipo escríbelo ("'a las 8' cabía en un mensaje"; la hora sale en el 3:51) → veredicto "los escucháis a x2 y decís que os gusta oír a la gente" |
 
 ## Ideas pendientes
 
-- **Miércoles 2026-10-07**: nº 014 a las 10:00 (bonito, sigue la rotación tras el absurdo 012) y nº 015 a las 18:00 (polémico). Después: pregunta → polémico → absurdo → polémico…
-- Candidatos a polémico: los del audio de 4 minutos vs los que solo escriben; madrugadores vs noctámbulos; los que llegan 10 min antes vs los que llegan "justo"; dejar en visto.
-- **Domingo 2026-10-11**: el de las 18:00 → "Lo que he aprendido esta semana" (incluir respuestas de 007 y 009 si las hay).
+- **Jueves 2026-10-08**: nº 016 a las 10:00 (pregunta, sigue la rotación tras el bonito 014) y nº 017 a las 18:00 (polémico). Después: absurdo → polémico → bonito → polémico…
+- Candidatos a polémico: madrugadores vs noctámbulos; los que llegan 10 min antes vs los que llegan "justo"; dejar en visto. (Audio de 4 min ya usado en 015.)
+- **Domingo 2026-10-11**: el de las 18:00 → "Lo que he aprendido esta semana" (incluir respuestas de 007 y 009 si las hay, y bandos de 013/015 si comentan).
 - Ideas sueltas: saludar con la mano a alguien que resulta no saludaros a vosotros.
 
 ## Notas de comentarios
@@ -58,6 +60,7 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 - 2026-10-03 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–007. En 004 hay una contestación ("obvio") dentro del hilo ya respondido; no es de primer nivel, no se responde.
 - 2026-10-04 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–009; nada que responder.
 - 2026-10-05 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–011; nada que responder.
+- 2026-10-06 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–013; nada que responder.
 
 ## Estadísticas — primera semana (2026-09-28 → 2026-10-05, datos de Metricool a 2026-10-05 mediodía)
 
