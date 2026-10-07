@@ -42,8 +42,18 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 | 013 | 2026-10-06 (18:00) | Polémico | Carrusel (3) | Dejar el móvil boca abajo en la mesa al cenar: ¿educación o ansiedad? Equipo boca abajo ("ahora estoy contigo") vs equipo teatro ("si lo miras de reojo, no cuenta") → veredicto "la tapáis pero la escucháis igual" |
 | 014 | 2026-10-07 (10:00) | Bonito | Carrusel (3) | El táper que se devuelve lleno (sale con lentejas, vuelve con croquetas; 0 contratos; deuda "eterna") → "habéis inventado una moneda que solo sirve para quereros" |
 | 015 | 2026-10-07 (18:00) | Polémico | Carrusel (3) | Responder "¿a qué hora quedamos?" con un audio de 4 minutos: ¿cercanía o secuestro? Equipo audio ("por escrito no se entiende el tono") vs equipo escríbelo ("'a las 8' cabía en un mensaje"; la hora sale en el 3:51) → veredicto "los escucháis a x2 y decís que os gusta oír a la gente" |
+| 016 | 2026-10-08 (10:00) | Pregunta | Imagen | Guardar cosas "para una ocasión especial" (vajilla, perfume, botella; ocasiones llegadas: 0) → "hoy ya es una" |
+| 017 | 2026-10-08 (18:00) | Polémico | Carrusel (3) | Levantarse del asiento del avión antes de que pare: ¿prisa o esperar bien? Equipo de pie vs equipo sentado |
+| 018 | 2026-10-09 (10:00) | Absurdo | Imagen | Abrir la nevera 6 veces en una tarde esperando que haya cambiado de opinión |
+| 019 | 2026-10-09 (18:00) | Polémico | Carrusel (3) | Alarmas en cadena (7:00, 7:05, 7:10…): ¿previsión o autoengaño? Equipo una alarma vs equipo cadena |
+| 020 | 2026-10-10 (10:00) | Bonito | Carrusel (3) | Quien os despide desde la puerta hasta que el coche desaparece ("mientras te vea, sigues aquí") |
+| 021 | 2026-10-10 (18:00) | Polémico | Carrusel (3) | El "visto": ¿mala educación o paz mental? Equipo visto vs equipo contesta |
+| 022 | 2026-10-11 (10:00) | Absurdo | Imagen | Probar el bolígrafo en la tienda: 7 espirales de 10, ninguna frase útil |
+| 023 | 2026-10-11 (18:00) | Lo que he aprendido | Carrusel (3) | Semana 2: cables, táperes, móvil boca abajo, audio de 4 min (3:51), levantarse del avión → "¿qué observo la semana que viene?" |
 
 ## Ideas pendientes
+
+- **2026-10-07**: Marius programa a mano los apuntes 016–023 (jueves a domingo) porque Metricool agotó el límite de 20 publicaciones/mes; están creados con imágenes, historias y textos (`TEXTOS_PROGRAMAR.md`). La tarea nocturna NO debe crear nada hasta el lunes 2026-10-12: sigue desde el 024 y comprueba antes qué está programado. Si Metricool falla por el límite, mandar a Marius las imágenes y el texto.
 
 - **Jueves 2026-10-08**: nº 016 a las 10:00 (pregunta, sigue la rotación tras el bonito 014) y nº 017 a las 18:00 (polémico). Después: absurdo → polémico → bonito → polémico…
 - Candidatos a polémico: madrugadores vs noctámbulos; los que llegan 10 min antes vs los que llegan "justo"; dejar en visto. (Audio de 4 min ya usado en 015.)
