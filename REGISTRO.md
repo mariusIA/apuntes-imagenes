@@ -72,6 +72,7 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 - 2026-10-05 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–011; nada que responder.
 - 2026-10-06 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–013; nada que responder.
 - 2026-10-07 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–015; nada que responder. No se crea nada (016–023 ya hechos; Marius los programa a mano). En Metricool no hay nada programado para el 2026-10-08. Ojo: el pie publicado del 015 termina en "apuntes" sin la almohadilla (#apuntes).
+- 2026-10-08 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–017; nada que responder. No se crea nada (018–019 ya hechos para el viernes; Marius los programa a mano). En Metricool no hay nada programado para el 2026-10-09. Los pies publicados de 016 y 017 también acaban en "apuntes" sin #: se añade la línea completa de hashtags al final de cada texto 018–023 en `TEXTOS_PROGRAMAR.md` para copiar y pegar.
 
 ## Estadísticas — primera semana (2026-09-28 → 2026-10-05, datos de Metricool a 2026-10-05 mediodía)
 
