@@ -50,6 +50,7 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 | 021 | 2026-10-10 (18:00) | Polémico | Carrusel (3) | El "visto": ¿mala educación o paz mental? Equipo visto vs equipo contesta |
 | 022 | 2026-10-11 (10:00) | Absurdo | Imagen | Probar el bolígrafo en la tienda: 7 espirales de 10, ninguna frase útil |
 | 023 | 2026-10-11 (18:00) | Lo que he aprendido | Carrusel (3) | Semana 2: cables, táperes, móvil boca abajo, audio de 4 min (3:51), levantarse del avión → "¿qué observo la semana que viene?" |
+| 024 | 2026-10-12 (10:00) | Pregunta | Imagen | Saludar a alguien que no os saludaba a vosotros: 1 saludo devuelto, 0 destinatarios correctos |
 
 ## Ideas pendientes
 
