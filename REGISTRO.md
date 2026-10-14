@@ -51,15 +51,17 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 | 022 | 2026-10-11 (10:00) | Absurdo | Imagen | Probar el bolígrafo en la tienda: 7 espirales de 10, ninguna frase útil |
 | 023 | 2026-10-11 (18:00) | Lo que he aprendido | Carrusel (3) | Semana 2: cables, táperes, móvil boca abajo, audio de 4 min (3:51), levantarse del avión → "¿qué observo la semana que viene?" |
 | 024 | 2026-10-12 (10:00) | Pregunta | Imagen | Saludar a alguien que no os saludaba a vosotros: 1 saludo devuelto, 0 destinatarios correctos |
+| 025 | 2026-10-15 (10:00) | Polémico | Carrusel (3) | Llegar 10 min antes o llegar "justo": ¿respeto o tiempo perdido? Equipo antes vs equipo justo → veredicto "el de las 7:50 siempre espera y el de las 8:00 siempre pregunta '¿llevas mucho?'" |
+| 026 | 2026-10-15 (18:00) | Absurdo | Imagen | La despedida en casa ajena tras "bueno, me voy": 12 min sofá + 9 pasillo + 14 puerta abierta = 35 min → "'me voy' no es una acción, es un tema de conversación" |
 
 ## Ideas pendientes
 
 - **2026-10-07**: Marius programa a mano los apuntes 016–023 (jueves a domingo) porque Metricool agotó el límite de 20 publicaciones/mes; están creados con imágenes, historias y textos (`TEXTOS_PROGRAMAR.md`). La tarea nocturna NO debe crear nada hasta el lunes 2026-10-12: sigue desde el 024 y comprueba antes qué está programado. Si Metricool falla por el límite, mandar a Marius las imágenes y el texto.
 
 - **Jueves 2026-10-08**: nº 016 a las 10:00 (pregunta, sigue la rotación tras el bonito 014) y nº 017 a las 18:00 (polémico). Después: absurdo → polémico → bonito → polémico…
-- Candidatos a polémico: madrugadores vs noctámbulos; los que llegan 10 min antes vs los que llegan "justo"; dejar en visto. (Audio de 4 min ya usado en 015.)
+- Candidatos a polémico: madrugadores vs noctámbulos. (Ya usados: audio de 4 min 015, visto 021, llegar antes/justo 025.) Otros posibles: ducha de mañana vs de noche; los que leen las instrucciones vs los que montan a ojo.
+- **Próximo (viernes 2026-10-16)**: tras el absurdo 026 toca bonito y polémico (p. ej. 027 bonito a las 10:00, 028 polémico a las 18:00). Domingo 2026-10-18 a las 18:00: "Lo que he aprendido esta semana".
 - **Domingo 2026-10-11**: el de las 18:00 → "Lo que he aprendido esta semana" (incluir respuestas de 007 y 009 si las hay, y bandos de 013/015 si comentan).
-- Ideas sueltas: saludar con la mano a alguien que resulta no saludaros a vosotros.
 
 ## Notas de comentarios
 
@@ -76,6 +78,7 @@ Diario de trabajo de la cuenta. Lo actualiza Claude cada noche al preparar el ap
 - 2026-10-08 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–017; nada que responder. No se crea nada (018–019 ya hechos para el viernes; Marius los programa a mano). En Metricool no hay nada programado para el 2026-10-09. Los pies publicados de 016 y 017 también acaban en "apuntes" sin #: se añade la línea completa de hashtags al final de cada texto 018–023 en `TEXTOS_PROGRAMAR.md` para copiar y pegar.
 - 2026-10-09 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–019; nada que responder. No se crea nada (020–021 ya hechos para el sábado; Marius los programa a mano). En Metricool no hay nada programado para el 2026-10-10. Los pies publicados de 018 y 019 siguen acabando en "apuntes" sin # (usar la línea de hashtags completa de `TEXTOS_PROGRAMAR.md`).
 - 2026-10-10 (revisión nocturna): sin comentarios nuevos de primer nivel en 001–020; nada que responder. No se crea nada (022–023 ya hechos para el domingo; Marius los programa a mano). En Metricool no hay nada programado para el 2026-10-11. Ojo: a las 20:47 el 021 (18:00) no aparece publicado en Instagram, y el pie publicado del 020 no lleva hashtags. A partir del lunes 2026-10-12 la tarea nocturna vuelve a crear apuntes desde el 024 (rotación: tras el absurdo 022 toca polémico/bonito/pregunta; candidatos a polémico: madrugadores vs noctámbulos, llegar 10 min antes vs "justo").
+- 2026-10-14 (tarea nocturna): sin comentarios nuevos de primer nivel en 001–024; nada que responder. Hueco detectado: tras el 024 (lunes 10:00) no se publicó nada el 12 (18:00), 13 ni 14 (no había apuntes creados ni programados). En Instagram, el 024 salió sin pie (caption vacío). Se crean y programan en Metricool 025 y 026 para el jueves 2026-10-15 (posts IG+Threads e historias IG).
 
 ## Estadísticas — primera semana (2026-09-28 → 2026-10-05, datos de Metricool a 2026-10-05 mediodía)
 
