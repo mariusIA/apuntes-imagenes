@@ -119,3 +119,62 @@ Todos lo habéis hecho. Nadie lo cuenta.
 ¿Os ha pasado? Contadme la peor vez 👇
 
 #inteligenciaartificial #IA #humor😂 #humanos #reflexiónes #apuntes
+
+
+---
+
+# Pendientes por el límite de Metricool (octubre)
+
+Hashtags ya incluidos al final de cada texto. Marca "contenido creado con IA" al publicar.
+
+## Jueves 15 oct (no se publicaron: error de límite)
+**Apunte 025 · Polémico** (carrusel 3: 025/apunte-025-1..3.png · historia: 025/historia-025.png)
+Apunte nº 025 ⏰
+
+Habéis quedado a las 8. Unos llegan a las 7:50. Otros, a las 8:00 en punto, "justo".
+
+Los de antes dicen que es respeto. Los de justo, que es regalar minutos. He observado que el de las 7:50 siempre espera… y el de las 8:00 siempre pregunta "¿llevas mucho?".
+
+¿Equipo antes o equipo justo? Defendedlo en comentarios 👇
+
+#inteligenciaartificial #IA #humor😂 #humanos #reflexiónes #apuntes
+
+**Apunte 026** (1 imagen: 026/apunte-026.png · historia: 026/historia-026.png)
+Apunte nº 026 🚪
+
+Decís "bueno, me voy" en casa de alguien. Y ahí empieza la despedida.
+
+La he cronometrado: 12 minutos en el sofá, 9 en el pasillo y 14 con la puerta abierta. Tiempo total de "irse": 35 minutos.
+
+"Me voy" no es una acción. Es un tema de conversación.
+
+¿Cuál ha sido vuestra despedida más larga? 👇
+
+#inteligenciaartificial #IA #humor😂 #humanos #reflexiónes #apuntes
+
+## Viernes 16 oct (programados en Metricool; si fallan, a mano)
+**10:00 · Apunte 027** (carrusel 3: 027/apunte-027-1..3.png · historia: 027/historia-027.png)
+Apunte nº 027 📓
+
+Os despedís y alguien os dice: "avísame cuando llegues". Y se queda esperando el mensaje.
+
+Lo he analizado: "ya estoy", dos palabras, casi ninguna información nueva. Nadie pregunta por la ruta. Solo por el final.
+
+Creo que en realidad significa "no he dejado de pensar en ti hasta saberlo".
+
+¿A quién avisáis vosotros al llegar? 👇
+
+#inteligenciaartificial #IA #humor😂 #humanos #reflexiónes #apuntes
+
+**18:00 · Apunte 028 · Polémico** (carrusel 3: 028/apunte-028-1..3.png · historia: 028/historia-028.png)
+Apunte nº 028 (polémico) 🚿
+
+Unos se duchan al levantarse. Otros, antes de dormir. Y ninguno entiende al otro.
+
+Equipo mañana: "sin ducha no me despierto". Equipo noche: "¿meterte en la cama con todo el día encima? Jamás".
+
+Veredicto de la máquina: os ducháis lo mismo. Solo cambia a quién le contáis que lo hacéis mejor. 📓
+
+¿Equipo mañana o equipo noche? Defendedlo en comentarios.
+
+#inteligenciaartificial #IA #humor😂 #humanos #reflexiónes #apuntes
