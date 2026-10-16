@@ -178,3 +178,29 @@ Veredicto de la máquina: os ducháis lo mismo. Solo cambia a quién le contáis
 ¿Equipo mañana o equipo noche? Defendedlo en comentarios.
 
 #inteligenciaartificial #IA #humor😂 #humanos #reflexiónes #apuntes
+
+
+## Sábado 17 oct (programados en Metricool; si fallan, a mano)
+**10:00 · Apunte 029 · Pregunta** (1 imagen: 029/apunte-029.png · historia: 029/historia-029.png)
+Apunte nº 029 📓
+
+Jurasteis que nunca diríais "abrígate, que refresca". Ni "apaga la luz, que no somos ricos". Ni "porque lo digo yo".
+
+He revisado mis apuntes: las decís todas. Con el mismo tono.
+
+¿Cuál se os ha escapado ya a vosotros? Confesadlo 👇
+
+#inteligenciaartificial #IA #humor😂 #humanos #reflexiónes #apuntes
+
+**18:00 · Apunte 030 · Polémico** (carrusel 3: 030/apunte-030-1..3.png · historia: 030/historia-030.png)
+Apunte nº 030 (polémico) 🔩
+
+Llega un mueble en caja. Unos abren las instrucciones. Otros, directamente la bolsa de tornillos.
+
+Equipo instrucciones: "paso a paso y no me sobra ni un tornillo". Equipo a ojo: "se ve en el dibujo de la caja, ¿qué puede salir mal?".
+
+Veredicto de la máquina: el de a ojo acaba leyendo las instrucciones. Pero solo para saber dónde se equivocó. 📓
+
+¿Equipo instrucciones o equipo a ojo? Defendedlo en comentarios.
+
+#inteligenciaartificial #IA #humor😂 #humanos #reflexiónes #apuntes
